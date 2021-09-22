@@ -1,0 +1,39 @@
+.left{
+	float: left;
+	width:  20%;
+	height: 965px;
+	font-size: 30px;
+	color: #282C34;
+	text-align: center;
+	background-color: aquamarine;
+}
+
+.column p{
+	margin: 5px 5px;
+}
+
+.column h5{
+	margin: 5px 5px;
+}
+
+.column img{
+	margin-top: 20px;
+}
+
+.Main{
+  float: left;
+  text-align: center;
+  font-size: 50px;
+  margin-left: 380px;
+  margin-top: 400px;
+}
+
+.right{
+	float: right;
+	width:  20%;
+	height: 965px;
+	font-size: 30px;
+	color: #282C34;
+	text-align: center;
+	background-color: aquamarine;
+}
